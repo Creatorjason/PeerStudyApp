@@ -1,2 +1,2 @@
 # PeerStudyApp
-Its a clone of StudyBuddy by Dennis Ivy, with updates and upgrades
+Its a clone of StudyBuddy by Dennis Ivy built using Django, with updates and upgrades
